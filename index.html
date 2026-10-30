@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manoj Kumar Sahoo | Junior DevOps & Multi-Cloud Engineer</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-color: #38bdf8;
+            --accent-hover: #0ea5e9;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: var(--text-color);
+        }
+        header p {
+            font-size: 1.2rem;
+            color: var(--accent-color);
+            margin-bottom: 20px;
+        }
+        .bio {
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 20px auto;
+        }
+        .btn-group {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .btn {
+            background-color: var(--accent-color);
+            color: #0f172a;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+        .btn:hover {
+            background-color: var(--accent-hover);
+        }
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            border-bottom: 2px solid var(--card-bg);
+            padding-bottom: 8px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .card {
+            background-color: var(--card-bg);
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #334155;
+        }
+        .card h3 {
+            margin-bottom: 10px;
+            color: var(--accent-color);
+        }
+        .card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+        footer {
+            text-align: center;
+            color: var(--text-muted);
+            margin-top: 50px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>Manoj Kumar Sahoo</h1>
+            <p>Junior DevOps & Multi-Cloud Engineer | Aspiring SRE & FDE</p>
+            <p class="bio">Passionate about cloud automation, infrastructure as code, and observability systems. MCA Graduate turning code into scalable deployments.</p>
+            <div class="btn-group">
+                <a href="https://www.linkedin.com/in/manojkumarsahoo-dev" target="_blank" class="btn">LinkedIn</a>
+                <a href="https://github.com/" target="_blank" class="btn">GitHub</a>
+            </div>
+        </header>
+
+        <!-- Core Skills -->
+        <section>
+            <h2 class="section-title">Technical Stack</h2>
+            <div class="grid">
+                <div class="card">
+                    <h3>Cloud & Infrastructure</h3>
+                    <p>AWS, Microsoft Azure, Google Cloud Platform, Terraform, Multi-Cloud Deployments.</p>
+                </div>
+                <div class="card">
+                    <h3>CI/CD & Automation</h3>
+                    <p>Jenkins Declarative Pipelines, Git, GitHub, GitLab, Maven, Automated Artifact Deployments.</p>
+                </div>
+                <div class="card">
+                    <h3>Systems & Scripting</h3>
+                    <p>Linux Administration, Bash Scripting, Python Scripting, Custom Database Port Configurations.</p>
+                </div>
+                <div class="card">
+                    <h3>Observability</h3>
+                    <p>Prometheus, Grafana, PagerDuty, Slack Incident Alert Integrations.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p>&copy; 2026 Manoj Kumar Sahoo. Hosted on manojkumarsahoo.com</p>
+        </footer>
+    </div>
+</body>
+</html>
