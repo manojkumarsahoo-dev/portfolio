@@ -1,11 +1,18 @@
-# Manoj Kumar Sahoo — Junior DevOps & Multi-Cloud Engineer
+<div align="center">
+
+<img src="assets/banner.svg" alt="Manoj Kumar Sahoo - Junior DevOps & Multi-Cloud Engineer" width="100%"/>
+
+</div>
 
 MCA graduate building hands-on skills in **AWS, Azure and GCP**, infrastructure as code, CI/CD and observability. Aspiring **DevOps / Cloud / SRE** engineer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manojkumarsahoo--dev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarsahoo-dev)
-[![GitHub followers](https://img.shields.io/github/followers/manojkumarsahoo-dev?label=Followers&logo=github)](https://github.com/manojkumarsahoo-dev)
-[![Email](https://img.shields.io/badge/Email-kumarsahoomanoj078%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kumarsahoomanoj078@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=manojkumarsahoo-dev&label=Profile+views&color=0e75b6)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-manojkumarsahoo--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarsahoo-dev)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsahoomanoj078@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=manojkumarsahoo-dev&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
+
+</div>
 
 ---
 
@@ -58,11 +65,11 @@ whoami:
 
 | Project | What It Is | Stack |
 |---|---|---|
-| [kubernetes-veeraops-ecommerce-microservices-app](https://github.com/manojkumarsahoo-dev/kubernetes-veeraops-ecommerce-microservices-app) | E-commerce microservices app originally on AWS EKS, being converted to Azure (AKS and related Azure services) | Kubernetes, AWS EKS, Azure AKS |
-| [observability-incident-response-lab](https://github.com/manojkumarsahoo-dev/observability-incident-response-lab) | End-to-end observability, alerting and incident response capstone: metrics, dashboards, alert routing, on-call paging | Prometheus, Grafana, Alertmanager, Slack, PagerDuty (AWS us-east-2, Azure westus2) |
-| *Add your next project here* | One line on what it does | Tools used |
-
-> Update the repository links above to match your actual repo names.
+| [Day-01-github-actions-keysmethod-infra-create](https://github.com/manojkumarsahoo-dev/Day-01-github-actions-keysmethod-infra-create) | Infrastructure creation driven by a GitHub Actions workflow (access-keys method) | GitHub Actions, Terraform |
+| [Terraform-practice](https://github.com/manojkumarsahoo-dev/Terraform-practice) | Hands-on Terraform practice | Terraform (HCL) |
+| [portfolio](https://github.com/manojkumarsahoo-dev/portfolio) | My personal portfolio site | HTML |
+| Kubernetes e-commerce microservices (EKS → AKS) | Converting an AWS EKS microservices app to Azure AKS and related Azure services | Kubernetes, AWS EKS, Azure AKS |
+| Observability & incident response lab | Capstone: metrics, dashboards, alert routing and on-call paging | Prometheus, Grafana, Alertmanager, Slack, PagerDuty |
 
 ---
 
